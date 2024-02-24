@@ -52,7 +52,7 @@ Ask questions, play with it and learn. The more you experiment the better you wi
 
 ## Credits
 
-The data is courtesy of: [Kaggle Dataset](https://www.kaggle.com/datasets/joniarroba/noshowappointments) thanks to [JoniaRoba](https://www.kaggle.com/joniarroba) used according to the following license.
+The data is courtesy of: [Kaggle No Shows Dataset](https://www.kaggle.com/datasets/joniarroba/noshowappointments) thanks to [Joni Hoppen](https://www.kaggle.com/joniarroba) used according to the following license.
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 

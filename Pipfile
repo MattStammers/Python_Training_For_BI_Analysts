@@ -25,6 +25,7 @@ ydata-profiling = "*"
 wordcloud = "*"
 bs4 = "*"
 nrclex = "*"
+ipywidgets = "*"
 
 [dev-packages]
 
